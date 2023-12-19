@@ -5,7 +5,7 @@ function Navbar() {
   return (
     
 
-<div className="d-flex align-items-center p-3" style={{ backgroundColor: "#f8f9fa" }}>
+<div className="d-flex align-items-center p-3" style={{ backgroundColor: "#f8f9fa",marginTop:"0",marginBottom:"0" }}>
   <div className="col-md-6 d-flex gap-3 align-items-center">
     <div className="bg-primary rounded" style={{ width: '40px', height: '40px', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="white" className="bi bi-megaphone-fill" viewBox="0 0 16 16">
